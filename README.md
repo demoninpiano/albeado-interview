@@ -18,7 +18,7 @@ Usage
 
 * Put raw input data in the data folder
 
-* Run  `pre-process` in jupyter notebook to clean the raw data and generate ouput 1 csv file
+* Run  `pre-process` in jupyter notebook to clean the raw data and generate output 1 csv file
 
 * Run  `EDA.ipynb` in jupyter notebook to visualize the exploratory data analysis results and generate results for output 2/3
 
