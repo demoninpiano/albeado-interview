@@ -10,7 +10,7 @@ Requirement
 Usage
 -----------------------
 
-* run `https://github.com/demoninpiano/albeado-interview` in cmd
+* run `git clone https://github.com/demoninpiano/albeado-interview` in cmd
 
 * run `mkdir data` in cmd
 
