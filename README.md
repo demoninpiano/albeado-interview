@@ -10,11 +10,11 @@ Requirement
 Usage
 -----------------------
 
-* run 'https://github.com/demoninpiano/albeado-interview' in cmd
+* run `https://github.com/demoninpiano/albeado-interview` in cmd
 
-* run 'mkdir data' in cmd
+* run `mkdir data` in cmd
 
-* run 'mkdir result' in cmd
+* run `mkdir result` in cmd
 
 * Put raw input data in the data folder
 
